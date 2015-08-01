@@ -6,16 +6,6 @@ import os
 os.system('clear')
 
 
-#Uncomment for sound intro
-#os.system('play -n -q synth pl G2 pl B2 pl D3 pl G3 pl D4 pl G4 \
-               #delay 0 .05 .1 .15 .2 .25 remix - fade 0 4 .1 norm -1')
-
-
-
-
-#Uncomment for sound effect	
-#os.system('play -q -n -c1 synth sin %-8 sin %-5 sin %-1 sin %-12 fade h 0.1 1 0.1')
-#os.system('clear')
 a = "\t"
 print (a * 7) + "|"
 print (a * 7) + "|"
